@@ -1,6 +1,6 @@
 # Handshake-Project-Dynamo
 Project Dynamo assessment
-**Contents**:
+**Contents**:\
 Dockerfile \
 solve.sh \
 solve.py \
